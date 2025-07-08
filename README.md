@@ -25,10 +25,10 @@ This is a simple **AI Chatbot** created using **HTML**, **CSS**, and **JavaScrip
 
 AI-Chat-Bot/
 │
-├── index.html → Main structure of chatbot
-├── style.css → Design and layout styles
-├── script.js → Chat logic and AI integration
-└── README.md → Project documentation
+├──  index.html → Main structure of chatbot
+├──  style.css → Design and layout styles
+├──  script.js → Chat logic and AI integration
+└──  README.md → Project documentation
 
 
 ## 🚀 How to Run
@@ -49,9 +49,9 @@ Add your API key in script.js.
 Use fetch() or axios to send user message to the AI model and show the response.
 
 ✨ Features to Add Later
-Voice input and output
-Save chat history
-Add dark/light theme toggle
+1) Voice input and output
+2) Save chat history
+3) Add dark/light theme toggle
 
 🙋‍♀️ Author
 Situ Kumari
